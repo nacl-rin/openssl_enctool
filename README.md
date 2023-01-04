@@ -1,0 +1,2 @@
+# openssl_enctool
+用bash瞎jb写的小脚本，方便我使用openssl加解密文件
